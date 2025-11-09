@@ -450,7 +450,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "YukiBoard.kicad_pro",
+    "filename": "RELIC.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -486,7 +486,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "/home/manni/Downloads/",
+      "plot": "/home/manni/Desktop/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "YukiBoard.step",
